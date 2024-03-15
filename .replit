@@ -12,3 +12,7 @@ language = "nodejs"
 deploymentTarget = "static"
 ignorePorts = false
 publicDir = "/"
+
+[[ports]]
+localPort = 80
+externalPort = 80
